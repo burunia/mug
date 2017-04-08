@@ -154,6 +154,7 @@ li a:hover {
 }
 
 .main-image{
+	margin-right:20px;
 	float: left;
 	padding-top: 80px;
 	width: 100%;
